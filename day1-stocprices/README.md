@@ -1,3 +1,4 @@
+##Task \ Oppgåve
 #Norwegian \ Norsk
 Lenken http://pastebin.com/sJVZp7BH inneholder en liste av tall. Den første linja inneholder prisen på en aksje på dag 1, den andre linja inneholder prisen på den samme aksjen på dag 2 og så videre.
 Gitt at du kun har lov til å gjøre én transaksjon, hva er den høyeste fortjenesten du kan oppnå gitt de vedlagte aksjeprisene?
@@ -11,4 +12,5 @@ A transaction means buying a stock before you one or several days later sell it.
 The answer should be provided with four decimals. Use a dot as the decimal symbol. E.g. 12.2446
 
 
-Answer \ Løsning: 48.2050
+#Answer \ Svar
+48.2050
