@@ -15,7 +15,7 @@ Hint: leap year is a year thats devideable by 4 and not 100, unless it is divide
 
 
 #Answer \ Svar
-288
+*presented at 04 dec 2015*
 
 ###Source \ Kilde
 https://julekalender.knowit.no/luker/BKvq2QcDZRh6fd24p
