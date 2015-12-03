@@ -14,3 +14,6 @@ The answer should be provided with four decimals. Use a dot as the decimal symbo
 
 #Answer \ Svar
 48.2050
+
+##Source \ Kilde
+https://julekalender.knowit.no/luker/cuzsMFre5E8oRDELa
